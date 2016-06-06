@@ -115,7 +115,7 @@
 [core]
   autocrlf = false
   editor = nvim
-  excludesfile = ~/.dotfiles/git/gitignore
+  excludesfile = ~/.gitignore
 [advice]
   statusHints = false
 [diff]
