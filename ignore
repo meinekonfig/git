@@ -39,3 +39,12 @@ Session.vim
 # Sublime Text
 # ----------------------------------------------------------------------------------------------
 *.sublime-workspace
+
+# Markdown generated HTML files
+*.md.html
+
+# Exhuberant Tags
+gutentags
+
+# Temp files
+tmp/
